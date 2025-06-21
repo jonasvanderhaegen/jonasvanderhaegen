@@ -28,11 +28,8 @@ I’m passionate about driving innovation and process improvements, regularly pr
 My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and a range of cutting-edge technologies such as Vue, Nuxt, Livewire, and Magento E-commerce. With a strong foundation in both design translation and backend integration, I bring a comprehensive approach to building robust and dynamic web applications.
 
 
-- 🔭 I’m currently building the [Windows-PowerShell-WSL-Distro-Generator](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator)  
-- 🌱 I’m learning more about **container security**, **GitHub Actions**, and **Infrastructure as Code**  
 - 💬 Ask me about **Laravel**, **Vue & Nuxt**, **Stock trading with options**, **Laravel**, **Magento 1 & 2**, **WSL** 
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-jonas%40xve.be-c14438?style=for-the-badge&style=flat&logo=Gmail&logoColor=white)](mailto:jonas@xve.be)  
-- ⚡ Fun fact: I went to the Philippines 4 times in 1,5 years ☕️
 
 ---
 
