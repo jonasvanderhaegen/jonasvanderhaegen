@@ -1,6 +1,6 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=LinkedIn)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvdh-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
 
 ---
 
@@ -24,12 +24,12 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 ---
 
 <a href="https://xve.be/">
-<img src="https://github.com/jonasvanderhaegen-xve/jonasvanderhaegen-xve/raw/main/xve_agency_cover.jpeg" width="100%" />
+<img src="xve_agency_cover.jpeg" width="100%" />
 </a>
 
 ## Happily working at <a href="https://xve.be/">XVE.Agency</a> in Antwerp!
 
-Follow us on [![LinkedIn](https://img.shields.io/badge/LinkedIn-XVE.Agency-blue?logo=LinkedIn)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
+Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A66C2?logo=linkedin-white&logoColor=fff)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
 
 # Let's quickly introduce you to XVE.Agency
 
