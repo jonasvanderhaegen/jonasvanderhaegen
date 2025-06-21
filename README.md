@@ -1,6 +1,6 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?style=for-the-badge&logo=X)](https://x.com/jonasvanderh)
 
 ---
 
@@ -18,7 +18,7 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 - 🔭 I’m currently building the [Windows-PowerShell-WSL-Distro-Generator](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator)  
 - 🌱 I’m learning more about **container security**, **GitHub Actions**, and **Infrastructure as Code**  
 - 💬 Ask me about **Laravel**, **Vue & Nuxt**, **Stock trading with options**, **Laravel**, **Magento 1 & 2**, **WSL** 
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-jonas%40xve.be-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonas@xve.be)  
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-jonas%40xve.be-c14438?style=for-the-badge&style=flat&logo=Gmail&logoColor=white)](mailto:jonas@xve.be)  
 - ⚡ Fun fact: I went to the Philippines 4 times in 1,5 years ☕️
 
 ---
@@ -29,7 +29,7 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ## Happily working at <a href="https://xve.be/">XVE.Agency</a> in Antwerp!
 
-Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A66C2?logo=linkedin-white&logoColor=fff)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
+Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
 
 # Let's quickly introduce you to XVE.Agency
 
@@ -53,10 +53,10 @@ Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A
 
 | Backend              | DevOps & Infra          | Databases           | Frontend            | Artificial Intelligence | Code editor | Tests | Automation workflow |
 | -------------------- | ----------------------- | ------------------- | ------------------- | ------------------------|---------------|---|--|
-| [![PHP](https://img.shields.io/badge/PHP-black.svg?&logo=php&logoColor=23777BB4)](#) | ![Docker](https://img.shields.io/badge/Docker-black?logo=docker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) [![jQuery](https://img.shields.io/badge/jQuery-black?logo=jquery&logoColor=fff)](#)[![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6)](#) | [![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai&logoColor=74aa9c)](#) | [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#) | [![Pest](https://img.shields.io/badge/Pest-black?logo=Pest)](#) | [![n8n.io](https://img.shields.io/badge/n8n.io-black?logo=n8n)](#) |
-| ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel) | ![GitHub Actions](https://img.shields.io/badge/GHActions-black?logo=githubactions) | ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql) | ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs) [![Nuxt](https://img.shields.io/badge/Nuxt-black?logo=nuxt&logoColor=#00DC82)](#) | [![Claude](https://img.shields.io/badge/Claude-black?logo=claude&logoColor=D97757)](#) | [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-black.svg?logo=vsc&logoColor=#0078d7)](#) || [![make](https://img.shields.io/badge/make-black?logo=make)](#) |
-| ![Composer](https://img.shields.io/badge/Composer-black?logo=composer) | [![WSL2](https://custom-icon-badges.demolab.com/badge/WSL2-black?logo=windows11)](#) | ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite) | ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss) | [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-black?logo=deepseek)](#) || | [![Gumloop](https://img.shields.io/badge/Gumloop-black?logo=gumloop)](#) |
-|[![Livewire](https://img.shields.io/badge/Livewire-black.svg?logo=livewire)](#)||[![Redis](https://img.shields.io/badge/Valkey-black.svg?logo=redis&logoColor=23DD0031)](#)|[![Vite](https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF)](#)|||||
+| [![PHP](https://img.shields.io/badge/PHP-black.svg?style=for-the-badge&logo=php&logoColor=23777BB4)](#) | ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) [![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=fff)](#)[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)](#) | [![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)](#) | [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&style=for-the-badge&logoColor=fff)](#) | [![Pest](https://img.shields.io/badge/Pest-black?style=for-the-badge&logo=Pest)](#) | [![n8n.io](https://img.shields.io/badge/n8n.io-black?style=for-the-badge&logo=n8n)](#) |
+| ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel) | ![GitHub Actions](https://img.shields.io/badge/GHActions-black?style=for-the-badge&logo=githubactions) | ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql) | ![Vue](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs) [![Nuxt](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt&logoColor=#00DC82)](#) | [![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=claude&logoColor=D97757)](#) | [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-black.svg?logo=vsc&style=for-the-badge&logoColor=#0078d7)](#) || [![make](https://img.shields.io/badge/make-black?style=for-the-badge&logo=make)](#) |
+| ![Composer](https://img.shields.io/badge/Composer-black?style=for-the-badge&logo=composer) | [![WSL2](https://custom-icon-badges.demolab.com/badge/WSL2-black?style=for-the-badge&logo=windows11)](#) | ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite) | ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss) | [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-black?style=for-the-badge&logo=deepseek)](#) || | [![Gumloop](https://img.shields.io/badge/Gumloop-black?style=for-the-badge&logo=gumloop)](#) |
+|[![Livewire](https://img.shields.io/badge/Livewire-black.svg?style=for-the-badge&logo=livewire)](#)||[![Redis](https://img.shields.io/badge/Valkey-black.svg?style=for-the-badge&logo=redis&logoColor=23DD0031)](#)|[![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&style=for-the-badge&logo=vite&logoColor=646CFF)](#)|||||
 
 
 ---
@@ -76,15 +76,15 @@ Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A
 
 ##### Laravel related
 
-[![Laravel on YouTube](https://img.shields.io/badge/Youtube-@LaravelPHP-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelPHP)
-[![LaraconEU on YouTube](https://img.shields.io/badge/Youtube-@LaraconEU-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaraconEU)
-[![Nuno Maduro on YouTube daily](https://img.shields.io/badge/Youtube-@nunomaduro-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@nunomaduro)<br>
-[![LaravelDaily on YouTube](https://img.shields.io/badge/Youtube-@LaravelDaily-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelDaily)
-[![freekvanderherten on YouTube](https://img.shields.io/badge/Youtube-/c/freekvanderherten-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/c/freekvanderherten)
-[![joshcirre on YouTube](https://img.shields.io/badge/Youtube-@joshcirre-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@joshcirre)<br>
-[![mrpunyapal on YouTube](https://img.shields.io/badge/Youtube-@mrpunyapal-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@mrpunyapal)
-[![sabatino-dev on YouTube](https://img.shields.io/badge/Youtube-@sabatino-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@sabatino-dev)
-[![aarondfrancis on YouTube](https://img.shields.io/badge/Youtube-@aarondfrancis-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@aarondfrancis)
+[![Laravel on YouTube](https://img.shields.io/badge/Youtube-@LaravelPHP-white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelPHP)
+[![LaraconEU on YouTube](https://img.shields.io/badge/Youtube-@LaraconEU-white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaraconEU)
+[![Nuno Maduro on YouTube daily](https://img.shields.io/badge/Youtube-@nunomaduro-white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@nunomaduro)<br>
+[![LaravelDaily on YouTube](https://img.shields.io/badge/Youtube-@LaravelDaily-white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelDaily)
+[![freekvanderherten on YouTube](https://img.shields.io/badge/Youtube-/c/freekvanderherten-white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/c/freekvanderherten)
+[![joshcirre on YouTube](https://img.shields.io/badge/Youtube-@joshcirre-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@joshcirre)<br>
+[![mrpunyapal on YouTube](https://img.shields.io/badge/Youtube-@mrpunyapal-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@mrpunyapal)
+[![sabatino-dev on YouTube](https://img.shields.io/badge/Youtube-@sabatino-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@sabatino-dev)
+[![aarondfrancis on YouTube](https://img.shields.io/badge/Youtube-@aarondfrancis-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@aarondfrancis)
 
 ##### Laravel and other programming languages
 
