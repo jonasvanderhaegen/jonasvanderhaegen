@@ -9,13 +9,13 @@
 
 Currently working on
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite&mode=dark&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-boilerplate&mode=dark&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-boilerplate)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-boilerplate&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-boilerplate)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator&mode=dark&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer&mode=dark&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer)
 
 
 
