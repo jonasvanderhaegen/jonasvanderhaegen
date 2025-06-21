@@ -111,6 +111,26 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ---
 
+# 💻 YouTube Videos I'd recommend
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Inside Filament 4: Live with the Creator of Laravel’s Leading SDUI Framework (Full Stream)](https://ytcards.demolab.com/?id=vbtHGZXzIpU&title=Inside+Filament+4%3A+Live+with+the+Creator+of+Laravel%E2%80%99s+Leading+SDUI+Framework+%28Full+Stream%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=6885 "Inside Filament 4: Live with the Creator of Laravel’s Leading SDUI Framework (Full Stream)")](https://www.youtube.com/watch?v=vbtHGZXzIpU)
+[![Jeffrey Way on Vue vs React, Livewire vs Inertia, Action Pattern, AI Coding, Testing, Tools & More!](https://ytcards.demolab.com/?id=nRhVzlK_se4&title=Jeffrey+Way+on+Vue+vs+React%2C+Livewire+vs+Inertia%2C+Action+Pattern%2C+AI+Coding%2C+Testing%2C+Tools+%26+More%21&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=3127 "Jeffrey Way on Vue vs React, Livewire vs Inertia, Action Pattern, AI Coding, Testing, Tools & More!")](https://www.youtube.com/watch?v=nRhVzlK_se4)
+[![Free, fast, full text search: Laravel + Typesense](https://ytcards.demolab.com/?id=bDLVeJQei_Q&title=Free%2C+fast%2C+full+text+search%3A+Laravel+%2B+Typesense&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=296)](https://www.youtube.com/watch?v=bDLVeJQei_Q)
+[![Building a model reservation system with atomic locks](https://ytcards.demolab.com/?id=czHUFCWVY0c&title=Building+a+model+reservation+system+with+atomic+locks&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=czHUFCWVY0c)
+[![I built an AI agent that composes entire teams of AI agents in n8n (free template)](https://ytcards.demolab.com/?id=Ik8OHT3w4pE&title=I+built+an+AI+agent+that+composes+entire+teams+of+AI+agents+in+n8n+%28free+template%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=Ik8OHT3w4pE)
+[![Deep Dive into LLMs like ChatGPT](https://ytcards.demolab.com/?id=7xTGNNLPyMI&title=Deep+Dive+into+LLMs+like+ChatGPT&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+[![Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI](https://ytcards.demolab.com/?id=2IK3DFHRFfw&title=Generative+AI+in+a+Nutshell+-+How+to+Survive+and+Thrive+in+the+Age+of+AI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=2IK3DFHRFfw&list=LL)
+[![Intro to Large Language Models (1hr Talk)](https://ytcards.demolab.com/?id=zjkBMFhNj_g&title=Intro+to+Large+Language+Models+%281hr+Talk%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+[![Andrej Karpathy: Software Is Changing (Again)](https://ytcards.demolab.com/?id=LCEmiRjPEtQ&title=Andrej+Karpathy%3A+Software+Is+Changing+%28Again%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+[![MIT study: Overreliance on AI affects our brains](https://ytcards.demolab.com/?id=EB1FP6CA88k&title=MIT+study%3A+Overreliance+on+AI+affects+our+brains&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=EB1FP6CA88k)
+[![The Copilot Delusion](https://ytcards.demolab.com/?id=-Q8c5vzYjfg&title=The+Copilot+Delusion&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=-Q8c5vzYjfg)
+<!-- END YOUTUBE-CARDS -->
+
+---
 <div align="center">
   <sub>Made with ❤️ and ☕ by Jonas</sub>
 </div>
