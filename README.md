@@ -1,6 +1,7 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?style=for-the-badge&logo=X)](https://x.com/jonasvanderh)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?style=for-the-badge&logo=X)](https://x.com/jonasvanderh) [![Facebook](https://img.shields.io/badge/Follow%20us%20on%20Facebook-0866FF.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/vanderhaegenjonas)
+
 
 ---
 
@@ -29,7 +30,9 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ## Happily working at <a href="https://xve.be/">XVE.Agency</a> in Antwerp!
 
-Follow us on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/XVE.be-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Follow%20us%20on%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/xvebe) 
+[![Facebook](https://img.shields.io/badge/Follow%20us%20on%20Facebook-0866FF.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/xvebe/)
+
 
 # Let's quickly introduce you to XVE.Agency
 
