@@ -75,8 +75,8 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasvanderhaegen&show_icons=true&theme=vue-dark" alt="Jonas’s GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvanderhaegen&layout=compact&theme=vue-dark" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonasvanderhaegen&show_icons=true&theme=vue-dark" alt="Jonas’s GitHub stats" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvanderhaegen&layout=compact&theme=vue-dark" alt="Top languages" height="100%"/>
 </p>
 
 ---
