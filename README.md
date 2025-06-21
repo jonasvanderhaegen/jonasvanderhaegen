@@ -24,7 +24,7 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 ---
 
 <a href="https://xve.be/">
-<img src="xve_agency_cover.jpeg" width="100%" />
+<img src="https://github.com/jonasvanderhaegen-xve/jonasvanderhaegen-xve/raw/main/xve_agency_cover.jpeg" width="100%" />
 </a>
 
 ## Happily working at <a href="https://xve.be/">XVE.Agency</a> in Antwerp!
