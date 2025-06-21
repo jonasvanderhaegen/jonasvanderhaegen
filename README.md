@@ -1,6 +1,6 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?style=for-the-badge&logo=X)](https://x.com/jonasvanderh) [![Facebook](https://img.shields.io/badge/Follow%20us%20on%20Facebook-0866FF.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/vanderhaegenjonas)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvanderh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?style=for-the-badge&logo=X)](https://x.com/jonasvanderh) [![Facebook](https://img.shields.io/badge/vanderhaegenjonas-0866FF.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/vanderhaegenjonas)
 
 
 ---
