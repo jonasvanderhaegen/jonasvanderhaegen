@@ -97,6 +97,7 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 [![mrpunyapal on YouTube](https://img.shields.io/badge/Youtube-@mrpunyapal-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@mrpunyapal)
 [![sabatino-dev on YouTube](https://img.shields.io/badge/Youtube-@sabatino-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@sabatino-dev)
 [![aarondfrancis on YouTube](https://img.shields.io/badge/Youtube-@aarondfrancis-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@aarondfrancis)
+[![phpannotated on YouTube](https://img.shields.io/badge/Youtube-@phpannotated-white?logo=Youtube&style=for-the-badge&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@phpannotated)
 
 ##### Laravel and other programming languages
 
