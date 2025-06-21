@@ -1,6 +1,6 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvdh-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonasvanderh-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
 
 ---
 
