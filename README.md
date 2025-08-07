@@ -9,14 +9,6 @@
 
 Currently working on
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-livewire-datingwebsite)
-
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen/laravel-boilerplate&style=horizontal)](https://github.com/jonasvanderhaegen/laravel-boilerplate)
-
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-generator)
-
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer&style=horizontal)](https://github.com/jonasvanderhaegen-xve/windows-powershell-wsl-distro-importer)
-
 
 
 #### In my 8+ year career, I experienced significant professional growth, advancing from Junior PHP Developer to Mid-Level/Senior Full-Stack Developer. At this specialized company in branded merchandise and distribution, I took on a broad role within the e-commerce development team. The team focused on the rapid implementation and professional management of large-scale B2B and B2C webshops, with bespoke solutions at the core of its services.
